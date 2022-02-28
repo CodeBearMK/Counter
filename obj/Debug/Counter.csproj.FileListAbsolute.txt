@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\Counter\bin\Debug\Counter.exe.config
+D:\cat32tw\Desktop\Counter\bin\Debug\Counter.exe
+D:\cat32tw\Desktop\Counter\bin\Debug\Counter.pdb
+D:\cat32tw\Desktop\Counter\obj\Debug\Counter.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\Counter\obj\Debug\Counter.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\Counter\obj\Debug\Counter.Form1.resources
+D:\cat32tw\Desktop\Counter\obj\Debug\Counter.Properties.Resources.resources
+D:\cat32tw\Desktop\Counter\obj\Debug\Counter.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\Counter\obj\Debug\Counter.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\Counter\obj\Debug\Counter.exe
+D:\cat32tw\Desktop\Counter\obj\Debug\Counter.pdb
